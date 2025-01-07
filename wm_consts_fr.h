@@ -6,7 +6,8 @@
  *
  * @author Creator tzapu
  * @author tablatronix
- * @version 0.0.0
+ * @version 0.0.1
+ * @translated AByGCreation
  * @license MIT
  */
 
